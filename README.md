@@ -1,6 +1,6 @@
 # Risolutore di Sudoku in Java (`Sudokua.java`)
 
-Un'applicazione console sviluppata in Java che permette di inserire manualmente uno schema di Sudoku 9x9, verificare in tempo reale la validità delle mosse e calcolare automaticamente la soluzione completa tramite un algoritmo di **backtracking ricorsivo**.
+Stamattina, mentre guardavo Noah giocare a un gioco basato sui numeri, ho avuto un’improvvisa intuizione. Mi sono unito a lui per un’ora e mi è venuta un’idea: perché non lasciare che sia una macchina a pensare al posto mio? È così che è nato questo progetto. Un'applicazione console sviluppata in Java che permette di inserire manualmente uno schema di Sudoku 9x9, verificare in tempo reale la validità delle mosse e calcolare automaticamente la soluzione completa tramite un algoritmo di **backtracking ricorsivo**.
 
 ---
 
